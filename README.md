@@ -6,7 +6,7 @@ Bu proje, Kaggle üzerinde Gezinomi veri setini kullanarak potansiyel müşteri 
 
 ## Veri Seti Açıklaması
 
-**Kaynak:** [Kaggle Gezinomi Veri Seti]([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/merveoztiryaki/gezinomi))
+**Kaynak:** [([https://www.kaggle.com/datasets/your-dataset-link](https://www.kaggle.com/datasets/merveoztiryaki/gezinomi))
 
 **Veri Seti Özellikleri:**
 - **`SaleCityName`**: Satışın yapıldığı şehir.
